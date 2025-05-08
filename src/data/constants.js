@@ -206,7 +206,7 @@ export const experiences = [
     role: "Fullstack Developer",
     company: "ATS Solutions ",
     date: "Feb 2025 - Coninue",
-    desc: "I am currently working remotely as a Fullstack Developer intern, gaining valuable experience in both frontend and backend technologies. My responsibilities include developing and maintaining web applications, working with JavaScript and React on the frontend, and leveraging Node.js, Express, and databases on the backend. This role allows me to understand the complete development process, from designing user interfaces to implementing server-side logic, while collaborating with the team virtually to deliver well-rounded solutions..",
+    desc: "Currently, I am working as a Python Developer at ATS , where I design, develop, and maintain software solutions to streamline recruitment processes.  I collaborate with cross-functional teams, including backend engineers, frontend developers, and product managers, to deliver robust solutions that improve candidate tracking, resume parsing, and data analytics. Additionally,  My expertise in frameworks like Django and Flask, along with experience in RESTful APIs and cloud services, allows me to contribute effectively to building high-performance recruitment tools. Working at ATS has strengthened my problem-solving skills and deepened my understanding of how technology can transform HR and talent acquisition processes...",
     skills: [
       "HTML",
       "Tailwind Css",
